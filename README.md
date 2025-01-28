@@ -8,8 +8,8 @@ This comprehensive Health Tourism Platform is a web-based application designed t
 ## Project Contributors
 This project was developed collaboratively by:
 
-- Emirhan Akdeniz @emirhan35s
-- Ulaş Demir @Ulashh1
+- Emirhan Akdeniz [@emirhan35s](https://github.com/emirhan35s)
+- Ulaş Demir [@Ulashh1](https://github.com/Ulashh1)
 
 ## Application Screenshots
 <details>
