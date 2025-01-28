@@ -87,7 +87,7 @@ This project was developed collaboratively by:
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/mcemilg/health_tourism.git
+git clone https://github.com/emirhan35s/Modern-Health-Tourism-Web-Site.git
 ```
 
 2. Install dependencies:
